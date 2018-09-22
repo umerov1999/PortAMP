@@ -53,7 +53,7 @@ git clone https://github.com/corporateshark/PortAMP
 cd PortAMP
 mkdir build
 cd build
-cmake .. -G "Visual Studio 12 2013"
+cmake .. -G "Visual Studio 15 2017"
 start PortAMP.sln
 ```
 
