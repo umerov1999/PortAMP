@@ -53,7 +53,7 @@ git clone https://github.com/corporateshark/PortAMP
 cd PortAMP
 mkdir build
 cd build
-cmake .. -G "Visual Studio 17 2022" -DCMAKE_BUILD_TYPE=Release
+cmake .. -G "Visual Studio 18 2026" -DCMAKE_BUILD_TYPE=Release
 start PortAMP.sln
 ```
 
